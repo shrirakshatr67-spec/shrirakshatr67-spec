@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on mini projects and coding practice  <br> I’m currently learning Data Structures and Web Development  <br> I’m looking to collaborate on open-source projects  <br>Ask me about C, Java and GitHub  <br> Fun fact: I enjoy turning ideas into code
+ I’m currently working on mini projects and coding practice  <br> I’m currently learning Data Structures and Web Development  <br> I’m looking to collaborate on open-source projects  <br>Ask me about C, Java,HTML,CSS and GitHub  <br> Fun fact: I enjoy turning ideas into code
 
 
 ## 🌐 Socials:
